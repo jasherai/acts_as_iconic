@@ -5,6 +5,6 @@ class Icon < ActiveRecord::Base
                  :resize_to => '16x16',
                  :processor => :Rmagick,
                  :size => 0..1.megabytes,
-                 :path_prefix => "public/images/icons"
+                 :path_prefix => "public/images/icons/acts_as_iconic"
   validates_as_attachment
 end
