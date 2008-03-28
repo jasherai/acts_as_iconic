@@ -1,0 +1,3241 @@
+--- 
+mime_types_581: 
+  content_type: x-world/x-vrml
+  icon_id: "0"
+  ext: ".wrz "
+  id: "581"
+mime_types_533: 
+  content_type: video/vnd.vivo
+  icon_id: "0"
+  ext: ".viv "
+  id: "533"
+mime_types_106: 
+  content_type: model/vnd.dwf
+  icon_id: "0"
+  ext: ".dwf "
+  id: "106"
+mime_types_391: 
+  content_type: x-world/x-3dmf
+  icon_id: "0"
+  ext: ".qd3 "
+  id: "391"
+mime_types_343: 
+  content_type: application/pro_eng
+  icon_id: "0"
+  ext: ".part "
+  id: "343"
+mime_types_154: 
+  content_type: application/x-gzip
+  icon_id: "0"
+  ext: ".gz "
+  id: "154"
+mime_types_582: 
+  content_type: text/scriplet
+  icon_id: "0"
+  ext: ".wsc "
+  id: "582"
+mime_types_534: 
+  content_type: video/vivo
+  icon_id: "0"
+  ext: ".vivo "
+  id: "534"
+mime_types_107: 
+  content_type: application/acad
+  icon_id: "0"
+  ext: ".dwg "
+  id: "107"
+mime_types_392: 
+  content_type: x-world/x-3dmf
+  icon_id: "0"
+  ext: ".qd3d "
+  id: "392"
+mime_types_344: 
+  content_type: text/pascal
+  icon_id: "0"
+  ext: ".pas "
+  id: "344"
+mime_types_583: 
+  content_type: application/x-wais-source
+  icon_id: "0"
+  ext: ".wsrc "
+  id: "583"
+mime_types_535: 
+  content_type: video/vnd.vivo
+  icon_id: "0"
+  ext: ".vivo "
+  id: "535"
+mime_types_108: 
+  content_type: image/vnd.dwg
+  icon_id: "0"
+  ext: ".dwg "
+  id: "108"
+mime_types_393: 
+  content_type: image/x-quicktime
+  icon_id: "0"
+  ext: ".qif "
+  id: "393"
+mime_types_345: 
+  content_type: image/x-portable-bitmap
+  icon_id: "0"
+  ext: ".pbm "
+  id: "345"
+mime_types_155: 
+  content_type: application/x-gzip
+  icon_id: "0"
+  ext: ".gzip "
+  id: "155"
+mime_types_536: 
+  content_type: application/vocaltec-media-desc
+  icon_id: "0"
+  ext: ".vmd "
+  id: "536"
+mime_types_109: 
+  content_type: image/x-dwg
+  icon_id: "0"
+  ext: ".dwg "
+  id: "109"
+mime_types_394: 
+  content_type: video/quicktime
+  icon_id: "0"
+  ext: ".qt "
+  id: "394"
+mime_types_346: 
+  content_type: application/vnd.hp-pcl
+  icon_id: "0"
+  ext: ".pcl "
+  id: "346"
+mime_types_156: 
+  content_type: multipart/x-gzip
+  icon_id: "41"
+  ext: ".gzip "
+  id: "156"
+mime_types_584: 
+  content_type: application/x-wintalk
+  icon_id: "0"
+  ext: ".wtk "
+  id: "584"
+mime_types_537: 
+  content_type: application/vocaltec-media-file
+  icon_id: "0"
+  ext: ".vmf "
+  id: "537"
+mime_types_395: 
+  content_type: video/x-qtc
+  icon_id: "0"
+  ext: ".qtc "
+  id: "395"
+mime_types_347: 
+  content_type: application/x-pcl
+  icon_id: "0"
+  ext: ".pcl "
+  id: "347"
+mime_types_157: 
+  content_type: text/plain
+  icon_id: "0"
+  ext: ".h "
+  id: "157"
+mime_types_585: 
+  content_type: image/x-xbitmap
+  icon_id: "0"
+  ext: ".xbm "
+  id: "585"
+mime_types_538: 
+  content_type: audio/voc
+  icon_id: "2"
+  ext: ".voc "
+  id: "538"
+mime_types_396: 
+  content_type: image/x-quicktime
+  icon_id: "0"
+  ext: ".qti "
+  id: "396"
+mime_types_348: 
+  content_type: image/x-pict
+  icon_id: "0"
+  ext: ".pct "
+  id: "348"
+mime_types_158: 
+  content_type: text/x-h
+  icon_id: "0"
+  ext: ".h "
+  id: "158"
+mime_types_586: 
+  content_type: image/x-xbm
+  icon_id: "0"
+  ext: ".xbm "
+  id: "586"
+mime_types_539: 
+  content_type: audio/x-voc
+  icon_id: "2"
+  ext: ".voc "
+  id: "539"
+mime_types_349: 
+  content_type: image/x-pcx
+  icon_id: "0"
+  ext: ".pcx "
+  id: "349"
+mime_types_159: 
+  content_type: application/x-hdf
+  icon_id: "0"
+  ext: ".hdf "
+  id: "159"
+mime_types_587: 
+  content_type: image/xbm
+  icon_id: "0"
+  ext: ".xbm "
+  id: "587"
+mime_types_020: 
+  content_type: application/x-nokia-9000-communicator-add-on-software
+  icon_id: "0"
+  ext: ".aos "
+  id: "20"
+mime_types_397: 
+  content_type: image/x-quicktime
+  icon_id: "0"
+  ext: ".qtif "
+  id: "397"
+mime_types_588: 
+  content_type: video/x-amt-demorun
+  icon_id: "0"
+  ext: ".xdr "
+  id: "588"
+mime_types_400: 
+  content_type: audio/x-realaudio
+  icon_id: "2"
+  ext: ".ra "
+  id: "400"
+mime_types_210: 
+  content_type: image/jpeg
+  icon_id: "18"
+  ext: ".jfif-tbnl "
+  id: "210"
+mime_types_021: 
+  content_type: application/mime
+  icon_id: "0"
+  ext: ".aps "
+  id: "21"
+mime_types_398: 
+  content_type: audio/x-pn-realaudio
+  icon_id: "2"
+  ext: ".ra "
+  id: "398"
+mime_types_589: 
+  content_type: xgl/drawing
+  icon_id: "0"
+  ext: ".xgz "
+  id: "589"
+mime_types_401: 
+  content_type: audio/x-pn-realaudio
+  icon_id: "2"
+  ext: ".ram "
+  id: "401"
+mime_types_211: 
+  content_type: image/jpeg
+  icon_id: "18"
+  ext: ".jpe "
+  id: "211"
+mime_types_022: 
+  content_type: application/octet-stream
+  icon_id: "0"
+  ext: ".arc "
+  id: "22"
+mime_types_399: 
+  content_type: audio/x-pn-realaudio-plugin
+  icon_id: "2"
+  ext: ".ra "
+  id: "399"
+mime_types_450: 
+  content_type: application/x-shar
+  icon_id: "0"
+  ext: ".sh "
+  id: "450"
+mime_types_402: 
+  content_type: application/x-cmu-raster
+  icon_id: "0"
+  ext: ".ras "
+  id: "402"
+mime_types_212: 
+  content_type: image/pjpeg
+  icon_id: "18"
+  ext: ".jpe "
+  id: "212"
+mime_types_260: 
+  content_type: text/mcf
+  icon_id: "0"
+  ext: ".mcf "
+  id: "260"
+mime_types_070: 
+  content_type: application/java-byte-code
+  icon_id: "0"
+  ext: ".class "
+  id: "70"
+mime_types_640: 
+  content_type: multipart/x-zip
+  icon_id: "41"
+  ext: ".zip "
+  id: "640"
+mime_types_451: 
+  content_type: text/x-script.sh
+  icon_id: "0"
+  ext: ".sh "
+  id: "451"
+mime_types_403: 
+  content_type: image/cmu-raster
+  icon_id: "0"
+  ext: ".ras "
+  id: "403"
+mime_types_213: 
+  content_type: image/jpeg
+  icon_id: "18"
+  ext: ".jpeg "
+  id: "213"
+mime_types_023: 
+  content_type: application/arj
+  icon_id: "0"
+  ext: ".arj "
+  id: "23"
+mime_types_261: 
+  content_type: application/netmc
+  icon_id: "0"
+  ext: ".mcp "
+  id: "261"
+mime_types_071: 
+  content_type: application/x-java-class
+  icon_id: "0"
+  ext: ".class "
+  id: "71"
+mime_types_641: 
+  content_type: application/octet-stream
+  icon_id: "0"
+  ext: ".zoo "
+  id: "641"
+mime_types_404: 
+  content_type: image/x-cmu-raster
+  icon_id: "0"
+  ext: ".ras "
+  id: "404"
+mime_types_214: 
+  content_type: image/pjpeg
+  icon_id: "18"
+  ext: ".jpeg "
+  id: "214"
+mime_types_024: 
+  content_type: application/octet-stream
+  icon_id: "0"
+  ext: ".arj "
+  id: "24"
+mime_types_262: 
+  content_type: application/x-troff-me
+  icon_id: "0"
+  ext: ".me "
+  id: "262"
+mime_types_072: 
+  content_type: application/octet-stream
+  icon_id: "0"
+  ext: ".com "
+  id: "72"
+mime_types_642: 
+  content_type: text/x-script.zsh
+  icon_id: "0"
+  ext: ".zsh "
+  id: "642"
+mime_types_452: 
+  content_type: application/x-bsh
+  icon_id: "0"
+  ext: ".shar "
+  id: "452"
+mime_types_405: 
+  content_type: image/cmu-raster
+  icon_id: "0"
+  ext: ".rast "
+  id: "405"
+mime_types_215: 
+  content_type: image/jpeg
+  icon_id: "18"
+  ext: ".jpg "
+  id: "215"
+mime_types_025: 
+  content_type: image/x-jg
+  icon_id: "0"
+  ext: ".art "
+  id: "25"
+mime_types_263: 
+  content_type: message/rfc822
+  icon_id: "0"
+  ext: ".mht "
+  id: "263"
+mime_types_073: 
+  content_type: text/plain
+  icon_id: "0"
+  ext: ".com "
+  id: "73"
+mime_types_643: 
+  content_type: unknown_icon
+  icon_id: "16"
+  ext: 
+  id: "643"
+mime_types_453: 
+  content_type: application/x-shar
+  icon_id: "0"
+  ext: ".shar "
+  id: "453"
+mime_types_406: 
+  content_type: text/x-script.rexx
+  icon_id: "0"
+  ext: ".rexx "
+  id: "406"
+mime_types_216: 
+  content_type: image/pjpeg
+  icon_id: "18"
+  ext: ".jpg "
+  id: "216"
+mime_types_026: 
+  content_type: video/x-ms-asf
+  icon_id: "0"
+  ext: ".asf "
+  id: "26"
+mime_types_264: 
+  content_type: message/rfc822
+  icon_id: "0"
+  ext: ".mhtml "
+  id: "264"
+mime_types_074: 
+  content_type: text/plain
+  icon_id: "0"
+  ext: ".conf "
+  id: "74"
+mime_types_644: 
+  content_type: application/x-php
+  icon_id: "27"
+  ext: .php
+  id: "644"
+mime_types_454: 
+  content_type: text/html
+  icon_id: "17"
+  ext: ".shtml "
+  id: "454"
+mime_types_407: 
+  content_type: image/vnd.rn-realflash
+  icon_id: "0"
+  ext: ".rf "
+  id: "407"
+mime_types_217: 
+  content_type: image/x-jps
+  icon_id: "0"
+  ext: ".jps "
+  id: "217"
+mime_types_027: 
+  content_type: text/x-asm
+  icon_id: "0"
+  ext: ".asm "
+  id: "27"
+mime_types_075: 
+  content_type: application/x-cpio
+  icon_id: "0"
+  ext: ".cpio "
+  id: "75"
+mime_types_645: 
+  content_type: text/x-c
+  icon_id: "19"
+  ext: .js
+  id: "645"
+mime_types_455: 
+  content_type: text/x-server-parsed-html
+  icon_id: "0"
+  ext: ".shtml "
+  id: "455"
+mime_types_408: 
+  content_type: image/x-rgb
+  icon_id: "0"
+  ext: ".rgb "
+  id: "408"
+mime_types_218: 
+  content_type: application/x-javascript
+  icon_id: "19"
+  ext: ".js "
+  id: "218"
+mime_types_028: 
+  content_type: text/asp
+  icon_id: "0"
+  ext: ".asp "
+  id: "28"
+mime_types_265: 
+  content_type: application/x-midi
+  icon_id: "0"
+  ext: ".mid "
+  id: "265"
+mime_types_076: 
+  content_type: text/x-c
+  icon_id: "0"
+  ext: ".cpp "
+  id: "76"
+mime_types_646: 
+  content_type: text/comma-separated-values
+  icon_id: "39"
+  ext: .csv
+  id: "646"
+mime_types_456: 
+  content_type: audio/x-psid
+  icon_id: "2"
+  ext: ".sid "
+  id: "456"
+mime_types_409: 
+  content_type: application/vnd.rn-realmedia
+  icon_id: "0"
+  ext: ".rm "
+  id: "409"
+mime_types_219: 
+  content_type: image/jutvision
+  icon_id: "0"
+  ext: ".jut "
+  id: "219"
+mime_types_029: 
+  content_type: application/x-mplayer2
+  icon_id: "0"
+  ext: ".asx "
+  id: "29"
+mime_types_266: 
+  content_type: audio/midi
+  icon_id: "2"
+  ext: ".mid "
+  id: "266"
+mime_types_077: 
+  content_type: application/mac-compactpro
+  icon_id: "0"
+  ext: ".cpt "
+  id: "77"
+mime_types_647: 
+  content_type: application/x-txt
+  icon_id: "36"
+  ext: .txt
+  id: "647"
+mime_types_457: 
+  content_type: application/x-sit
+  icon_id: "0"
+  ext: ".sit "
+  id: "457"
+mime_types_267: 
+  content_type: audio/x-mid
+  icon_id: "2"
+  ext: ".mid "
+  id: "267"
+mime_types_648: 
+  content_type: application/octet
+  icon_id: "25"
+  ext: .pdf
+  id: "648"
+mime_types_458: 
+  content_type: application/x-stuffit
+  icon_id: "0"
+  ext: ".sit "
+  id: "458"
+mime_types_268: 
+  content_type: audio/x-midi
+  icon_id: "2"
+  ext: ".mid "
+  id: "268"
+mime_types_078: 
+  content_type: application/x-compactpro
+  icon_id: "0"
+  ext: ".cpt "
+  id: "78"
+mime_types_459: 
+  content_type: application/x-koan
+  icon_id: "0"
+  ext: ".skd "
+  id: "459"
+mime_types_269: 
+  content_type: music/crescendo
+  icon_id: "0"
+  ext: ".mid "
+  id: "269"
+mime_types_079: 
+  content_type: application/x-cpt
+  icon_id: "0"
+  ext: ".cpt "
+  id: "79"
+mime_types_130: 
+  content_type: application/fractals
+  icon_id: "0"
+  ext: ".fif "
+  id: "130"
+mime_types_510: 
+  content_type: audio/tsp-audio
+  icon_id: "2"
+  ext: ".tsi "
+  id: "510"
+mime_types_320: 
+  content_type: application/vnd.nokia.configuration-message
+  icon_id: "0"
+  ext: ".ncm "
+  id: "320"
+mime_types_131: 
+  content_type: image/fif
+  icon_id: "0"
+  ext: ".fif "
+  id: "131"
+mime_types_511: 
+  content_type: application/dsptype
+  icon_id: "0"
+  ext: ".tsp "
+  id: "511"
+mime_types_321: 
+  content_type: image/x-niff
+  icon_id: "0"
+  ext: ".nif "
+  id: "321"
+mime_types_132: 
+  content_type: video/fli
+  icon_id: "0"
+  ext: ".fli "
+  id: "132"
+mime_types_560: 
+  content_type: application/msword
+  icon_id: "8"
+  ext: ".wiz "
+  id: "560"
+mime_types_512: 
+  content_type: audio/tsplayer
+  icon_id: "2"
+  ext: ".tsp "
+  id: "512"
+mime_types_322: 
+  content_type: image/x-niff
+  icon_id: "0"
+  ext: ".niff "
+  id: "322"
+mime_types_370: 
+  content_type: application/mspowerpoint
+  icon_id: "31"
+  ext: ".pot "
+  id: "370"
+mime_types_180: 
+  content_type: text/html
+  icon_id: "17"
+  ext: ".htmls "
+  id: "180"
+mime_types_561: 
+  content_type: application/x-123
+  icon_id: "0"
+  ext: ".wk1 "
+  id: "561"
+mime_types_513: 
+  content_type: text/tab-separated-values
+  icon_id: "0"
+  ext: ".tsv "
+  id: "513"
+mime_types_323: 
+  content_type: application/x-mix-transfer
+  icon_id: "0"
+  ext: ".nix "
+  id: "323"
+mime_types_133: 
+  content_type: video/x-fli
+  icon_id: "0"
+  ext: ".fli "
+  id: "133"
+mime_types_371: 
+  content_type: application/vnd.ms-powerpoint
+  icon_id: "31"
+  ext: ".pot "
+  id: "371"
+mime_types_181: 
+  content_type: text/webviewhtml
+  icon_id: "0"
+  ext: ".htt "
+  id: "181"
+mime_types_514: 
+  content_type: image/florian
+  icon_id: "0"
+  ext: ".turbot "
+  id: "514"
+mime_types_324: 
+  content_type: application/x-conference
+  icon_id: "0"
+  ext: ".nsc "
+  id: "324"
+mime_types_134: 
+  content_type: image/florian
+  icon_id: "0"
+  ext: ".flo "
+  id: "134"
+mime_types_372: 
+  content_type: model/x-pov
+  icon_id: "0"
+  ext: ".pov "
+  id: "372"
+mime_types_182: 
+  content_type: text/html
+  icon_id: "17"
+  ext: ".htx "
+  id: "182"
+mime_types_562: 
+  content_type: windows/metafile
+  icon_id: "0"
+  ext: ".wmf "
+  id: "562"
+mime_types_515: 
+  content_type: text/plain
+  icon_id: "36"
+  ext: ".txt "
+  id: "515"
+mime_types_325: 
+  content_type: application/x-navidoc
+  icon_id: "0"
+  ext: ".nvd "
+  id: "325"
+mime_types_135: 
+  content_type: text/vnd.fmi.flexstor
+  icon_id: "0"
+  ext: ".flx "
+  id: "135"
+mime_types_373: 
+  content_type: application/vnd.ms-powerpoint
+  icon_id: "31"
+  ext: ".ppa "
+  id: "373"
+mime_types_183: 
+  content_type: x-conference/x-cooltalk
+  icon_id: "0"
+  ext: ".ice "
+  id: "183"
+mime_types_563: 
+  content_type: text/vnd.wap.wml
+  icon_id: "0"
+  ext: ".wml "
+  id: "563"
+mime_types_516: 
+  content_type: text/x-uil
+  icon_id: "0"
+  ext: ".uil "
+  id: "516"
+mime_types_326: 
+  content_type: application/octet-stream
+  icon_id: "0"
+  ext: ".o "
+  id: "326"
+mime_types_136: 
+  content_type: video/x-atomic3d-feature
+  icon_id: "0"
+  ext: ".fmf "
+  id: "136"
+mime_types_374: 
+  content_type: image/x-portable-pixmap
+  icon_id: "0"
+  ext: ".ppm "
+  id: "374"
+mime_types_184: 
+  content_type: image/x-icon
+  icon_id: "0"
+  ext: ".ico "
+  id: "184"
+mime_types_564: 
+  content_type: application/vnd.wap.wmlc
+  icon_id: "0"
+  ext: ".wmlc "
+  id: "564"
+mime_types_517: 
+  content_type: text/uri-list
+  icon_id: "0"
+  ext: ".uni "
+  id: "517"
+mime_types_327: 
+  content_type: application/oda
+  icon_id: "0"
+  ext: ".oda "
+  id: "327"
+mime_types_137: 
+  content_type: text/plain
+  icon_id: "0"
+  ext: ".for "
+  id: "137"
+mime_types_185: 
+  content_type: text/plain
+  icon_id: "0"
+  ext: ".idc "
+  id: "185"
+mime_types_565: 
+  content_type: text/vnd.wap.wmlscript
+  icon_id: "0"
+  ext: ".wmls "
+  id: "565"
+mime_types_518: 
+  content_type: text/uri-list
+  icon_id: "0"
+  ext: ".unis "
+  id: "518"
+mime_types_328: 
+  content_type: application/x-omc
+  icon_id: "0"
+  ext: ".omc "
+  id: "328"
+mime_types_138: 
+  content_type: text/x-fortran
+  icon_id: "0"
+  ext: ".for "
+  id: "138"
+mime_types_375: 
+  content_type: application/mspowerpoint
+  icon_id: "31"
+  ext: ".pps "
+  id: "375"
+mime_types_186: 
+  content_type: image/ief
+  icon_id: "0"
+  ext: ".ief "
+  id: "186"
+mime_types_566: 
+  content_type: application/vnd.wap.wmlscriptc
+  icon_id: "0"
+  ext: ".wmlsc "
+  id: "566"
+mime_types_519: 
+  content_type: application/i-deas
+  icon_id: "0"
+  ext: ".unv "
+  id: "519"
+mime_types_329: 
+  content_type: application/x-omcdatamaker
+  icon_id: "0"
+  ext: ".omcd "
+  id: "329"
+mime_types_139: 
+  content_type: image/vnd.fpx
+  icon_id: "0"
+  ext: ".fpx "
+  id: "139"
+mime_types_376: 
+  content_type: application/vnd.ms-powerpoint
+  icon_id: "31"
+  ext: ".pps "
+  id: "376"
+mime_types_187: 
+  content_type: image/ief
+  icon_id: "0"
+  ext: ".iefs "
+  id: "187"
+mime_types_567: 
+  content_type: application/msword
+  icon_id: "8"
+  ext: ".word "
+  id: "567"
+mime_types_377: 
+  content_type: application/mspowerpoint
+  icon_id: "31"
+  ext: ".ppt "
+  id: "377"
+mime_types_568: 
+  content_type: application/wordperfect
+  icon_id: "0"
+  ext: ".wp "
+  id: "568"
+mime_types_378: 
+  content_type: application/powerpoint
+  icon_id: "31"
+  ext: ".ppt "
+  id: "378"
+mime_types_188: 
+  content_type: application/iges
+  icon_id: "0"
+  ext: ".iges "
+  id: "188"
+mime_types_569: 
+  content_type: application/wordperfect
+  icon_id: "0"
+  ext: ".wp5 "
+  id: "569"
+mime_types_001: 
+  content_type: x-world/x-3dmf
+  icon_id: "0"
+  ext: ".3dm "
+  id: "1"
+mime_types_379: 
+  content_type: application/vnd.ms-powerpoint
+  icon_id: "31"
+  ext: ".ppt "
+  id: "379"
+mime_types_189: 
+  content_type: model/iges
+  icon_id: "0"
+  ext: ".iges "
+  id: "189"
+mime_types_240: 
+  content_type: application/x-latex
+  icon_id: "0"
+  ext: ".ltx "
+  id: "240"
+mime_types_050: 
+  content_type: application/x-bzip2
+  icon_id: "0"
+  ext: ".boz "
+  id: "50"
+mime_types_002: 
+  content_type: x-world/x-3dmf
+  icon_id: "0"
+  ext: ".3dmf "
+  id: "2"
+mime_types_620: 
+  content_type: application/vnd.ms-excel
+  icon_id: "39"
+  ext: ".xlw "
+  id: "620"
+mime_types_430: 
+  content_type: audio/s3m
+  icon_id: "2"
+  ext: ".s3m "
+  id: "430"
+mime_types_241: 
+  content_type: application/octet-stream
+  icon_id: "0"
+  ext: ".lzh "
+  id: "241"
+mime_types_051: 
+  content_type: application/x-bsh
+  icon_id: "0"
+  ext: ".bsh "
+  id: "51"
+mime_types_003: 
+  content_type: application/octet-stream
+  icon_id: "0"
+  ext: ".a "
+  id: "3"
+mime_types_621: 
+  content_type: application/x-excel
+  icon_id: "39"
+  ext: ".xlw "
+  id: "621"
+mime_types_431: 
+  content_type: application/octet-stream
+  icon_id: "0"
+  ext: ".saveme "
+  id: "431"
+mime_types_242: 
+  content_type: application/x-lzh
+  icon_id: "0"
+  ext: ".lzh "
+  id: "242"
+mime_types_052: 
+  content_type: application/x-bzip
+  icon_id: "0"
+  ext: ".bz "
+  id: "52"
+mime_types_004: 
+  content_type: application/x-authorware-bin
+  icon_id: "0"
+  ext: ".aab "
+  id: "4"
+mime_types_622: 
+  content_type: application/x-msexcel
+  icon_id: "39"
+  ext: ".xlw "
+  id: "622"
+mime_types_480: 
+  content_type: application/vnd.ms-pki.stl
+  icon_id: "0"
+  ext: ".stl "
+  id: "480"
+mime_types_432: 
+  content_type: application/x-tbook
+  icon_id: "0"
+  ext: ".sbk "
+  id: "432"
+mime_types_053: 
+  content_type: application/x-bzip2
+  icon_id: "0"
+  ext: ".bz2 "
+  id: "53"
+mime_types_005: 
+  content_type: application/x-authorware-map
+  icon_id: "0"
+  ext: ".aam "
+  id: "5"
+mime_types_290: 
+  content_type: video/x-sgi-movie
+  icon_id: "0"
+  ext: ".movie "
+  id: "290"
+mime_types_623: 
+  content_type: audio/xm
+  icon_id: "2"
+  ext: ".xm "
+  id: "623"
+mime_types_481: 
+  content_type: application/x-navistyle
+  icon_id: "0"
+  ext: ".stl "
+  id: "481"
+mime_types_433: 
+  content_type: application/x-lotusscreencam
+  icon_id: "0"
+  ext: ".scm "
+  id: "433"
+mime_types_243: 
+  content_type: application/lzx
+  icon_id: "0"
+  ext: ".lzx "
+  id: "243"
+mime_types_054: 
+  content_type: text/plain
+  icon_id: "0"
+  ext: ".c "
+  id: "54"
+mime_types_006: 
+  content_type: application/x-authorware-seg
+  icon_id: "0"
+  ext: ".aas "
+  id: "6"
+mime_types_291: 
+  content_type: audio/mpeg
+  icon_id: "2"
+  ext: ".mp2 "
+  id: "291"
+mime_types_624: 
+  content_type: application/xml
+  icon_id: "40"
+  ext: ".xml "
+  id: "624"
+mime_types_482: 
+  content_type: application/step
+  icon_id: "0"
+  ext: ".stp "
+  id: "482"
+mime_types_434: 
+  content_type: text/x-script.guile
+  icon_id: "0"
+  ext: ".scm "
+  id: "434"
+mime_types_244: 
+  content_type: application/octet-stream
+  icon_id: "0"
+  ext: ".lzx "
+  id: "244"
+mime_types_055: 
+  content_type: text/x-c
+  icon_id: "0"
+  ext: ".c "
+  id: "55"
+mime_types_007: 
+  content_type: text/vnd.abc
+  icon_id: "0"
+  ext: ".abc "
+  id: "7"
+mime_types_292: 
+  content_type: audio/x-mpeg
+  icon_id: "2"
+  ext: ".mp2 "
+  id: "292"
+mime_types_625: 
+  content_type: text/xml
+  icon_id: "40"
+  ext: ".xml "
+  id: "625"
+mime_types_483: 
+  content_type: application/x-sv4cpio
+  icon_id: "0"
+  ext: ".sv4cpio "
+  id: "483"
+mime_types_435: 
+  content_type: text/x-script.scheme
+  icon_id: "0"
+  ext: ".scm "
+  id: "435"
+mime_types_245: 
+  content_type: application/x-lzx
+  icon_id: "0"
+  ext: ".lzx "
+  id: "245"
+mime_types_008: 
+  content_type: text/html
+  icon_id: "17"
+  ext: ".acgi "
+  id: "8"
+mime_types_293: 
+  content_type: video/mpeg
+  icon_id: "0"
+  ext: ".mp2 "
+  id: "293"
+mime_types_626: 
+  content_type: xgl/movie
+  icon_id: "0"
+  ext: ".xmz "
+  id: "626"
+mime_types_484: 
+  content_type: application/x-sv4crc
+  icon_id: "0"
+  ext: ".sv4crc "
+  id: "484"
+mime_types_436: 
+  content_type: video/x-scm
+  icon_id: "0"
+  ext: ".scm "
+  id: "436"
+mime_types_246: 
+  content_type: text/plain
+  icon_id: "0"
+  ext: ".m "
+  id: "246"
+mime_types_056: 
+  content_type: text/plain
+  icon_id: "0"
+  ext: ".c++ "
+  id: "56"
+mime_types_009: 
+  content_type: video/animaflex
+  icon_id: "0"
+  ext: ".afl "
+  id: "9"
+mime_types_294: 
+  content_type: video/x-mpeg
+  icon_id: "0"
+  ext: ".mp2 "
+  id: "294"
+mime_types_627: 
+  content_type: application/x-vnd.ls-xpix
+  icon_id: "0"
+  ext: ".xpix "
+  id: "627"
+mime_types_437: 
+  content_type: text/plain
+  icon_id: "0"
+  ext: ".sdml "
+  id: "437"
+mime_types_247: 
+  content_type: text/x-m
+  icon_id: "0"
+  ext: ".m "
+  id: "247"
+mime_types_057: 
+  content_type: application/vnd.ms-pki.seccat
+  icon_id: "0"
+  ext: ".cat "
+  id: "57"
+mime_types_295: 
+  content_type: video/x-mpeq2a
+  icon_id: "0"
+  ext: ".mp2 "
+  id: "295"
+mime_types_628: 
+  content_type: image/x-xpixmap
+  icon_id: "0"
+  ext: ".xpm "
+  id: "628"
+mime_types_485: 
+  content_type: image/vnd.dwg
+  icon_id: "0"
+  ext: ".svf "
+  id: "485"
+mime_types_438: 
+  content_type: application/sdp
+  icon_id: "0"
+  ext: ".sdp "
+  id: "438"
+mime_types_248: 
+  content_type: video/mpeg
+  icon_id: "0"
+  ext: ".m1v "
+  id: "248"
+mime_types_058: 
+  content_type: text/plain
+  icon_id: "0"
+  ext: ".cc "
+  id: "58"
+mime_types_296: 
+  content_type: audio/mpeg3
+  icon_id: "2"
+  ext: ".mp3 "
+  id: "296"
+mime_types_629: 
+  content_type: image/xpm
+  icon_id: "0"
+  ext: ".xpm "
+  id: "629"
+mime_types_486: 
+  content_type: image/x-dwg
+  icon_id: "0"
+  ext: ".svf "
+  id: "486"
+mime_types_439: 
+  content_type: application/x-sdp
+  icon_id: "0"
+  ext: ".sdp "
+  id: "439"
+mime_types_249: 
+  content_type: audio/mpeg
+  icon_id: "2"
+  ext: ".m2a "
+  id: "249"
+mime_types_059: 
+  content_type: text/x-c
+  icon_id: "0"
+  ext: ".cc "
+  id: "59"
+mime_types_297: 
+  content_type: audio/x-mpeg-3
+  icon_id: "2"
+  ext: ".mp3 "
+  id: "297"
+mime_types_487: 
+  content_type: application/x-world
+  icon_id: "0"
+  ext: ".svr "
+  id: "487"
+mime_types_110: 
+  content_type: application/dxf
+  icon_id: "0"
+  ext: ".dxf "
+  id: "110"
+mime_types_488: 
+  content_type: x-world/x-svr
+  icon_id: "0"
+  ext: ".svr "
+  id: "488"
+mime_types_300: 
+  content_type: audio/mpeg
+  icon_id: "2"
+  ext: ".mpa "
+  id: "300"
+mime_types_298: 
+  content_type: video/mpeg
+  icon_id: "0"
+  ext: ".mp3 "
+  id: "298"
+mime_types_489: 
+  content_type: application/x-shockwave-flash
+  icon_id: "35"
+  ext: ".swf "
+  id: "489"
+mime_types_301: 
+  content_type: video/mpeg
+  icon_id: "0"
+  ext: ".mpa "
+  id: "301"
+mime_types_111: 
+  content_type: image/vnd.dwg
+  icon_id: "0"
+  ext: ".dxf "
+  id: "111"
+mime_types_299: 
+  content_type: video/x-mpeg
+  icon_id: "0"
+  ext: ".mp3 "
+  id: "299"
+mime_types_350: 
+  content_type: chemical/x-pdb
+  icon_id: "0"
+  ext: ".pdb "
+  id: "350"
+mime_types_160: 
+  content_type: application/x-helpfile
+  icon_id: "0"
+  ext: ".help "
+  id: "160"
+mime_types_302: 
+  content_type: application/x-project
+  icon_id: "0"
+  ext: ".mpc "
+  id: "302"
+mime_types_112: 
+  content_type: image/x-dwg
+  icon_id: "0"
+  ext: ".dxf "
+  id: "112"
+mime_types_540: 
+  content_type: video/vosaic
+  icon_id: "0"
+  ext: ".vos "
+  id: "540"
+mime_types_351: 
+  content_type: application/pdf
+  icon_id: "25"
+  ext: ".pdf "
+  id: "351"
+mime_types_161: 
+  content_type: application/vnd.hp-hpgl
+  icon_id: "0"
+  ext: ".hgl "
+  id: "161"
+mime_types_303: 
+  content_type: video/mpeg
+  icon_id: "0"
+  ext: ".mpe "
+  id: "303"
+mime_types_113: 
+  content_type: application/x-director
+  icon_id: "0"
+  ext: ".dxr "
+  id: "113"
+mime_types_541: 
+  content_type: audio/voxware
+  icon_id: "2"
+  ext: ".vox "
+  id: "541"
+mime_types_352: 
+  content_type: audio/make
+  icon_id: "2"
+  ext: ".pfunk "
+  id: "352"
+mime_types_162: 
+  content_type: text/plain
+  icon_id: "0"
+  ext: ".hh "
+  id: "162"
+mime_types_304: 
+  content_type: video/mpeg
+  icon_id: "0"
+  ext: ".mpeg "
+  id: "304"
+mime_types_114: 
+  content_type: text/x-script.elisp
+  icon_id: "0"
+  ext: ".el "
+  id: "114"
+mime_types_590: 
+  content_type: image/vnd.xiff
+  icon_id: "0"
+  ext: ".xif "
+  id: "590"
+mime_types_542: 
+  content_type: audio/x-twinvq-plugin
+  icon_id: "2"
+  ext: ".vqe "
+  id: "542"
+mime_types_163: 
+  content_type: text/x-h
+  icon_id: "0"
+  ext: ".hh "
+  id: "163"
+mime_types_305: 
+  content_type: audio/mpeg
+  icon_id: "2"
+  ext: ".mpg "
+  id: "305"
+mime_types_115: 
+  content_type: application/x-bytecode.elisp (compiled elisp)
+  icon_id: "0"
+  ext: ".elc "
+  id: "115"
+mime_types_591: 
+  content_type: application/excel
+  icon_id: "39"
+  ext: ".xl "
+  id: "591"
+mime_types_543: 
+  content_type: audio/x-twinvq
+  icon_id: "2"
+  ext: ".vqf "
+  id: "543"
+mime_types_353: 
+  content_type: audio/make.my.funk
+  icon_id: "2"
+  ext: ".pfunk "
+  id: "353"
+mime_types_164: 
+  content_type: text/x-script
+  icon_id: "0"
+  ext: ".hlb "
+  id: "164"
+mime_types_306: 
+  content_type: video/mpeg
+  icon_id: "0"
+  ext: ".mpg "
+  id: "306"
+mime_types_116: 
+  content_type: application/x-elc
+  icon_id: "0"
+  ext: ".elc "
+  id: "116"
+mime_types_592: 
+  content_type: application/excel
+  icon_id: "39"
+  ext: ".xla "
+  id: "592"
+mime_types_544: 
+  content_type: audio/x-twinvq-plugin
+  icon_id: "2"
+  ext: ".vql "
+  id: "544"
+mime_types_354: 
+  content_type: image/x-portable-graymap
+  icon_id: "0"
+  ext: ".pgm "
+  id: "354"
+mime_types_165: 
+  content_type: application/hlp
+  icon_id: "0"
+  ext: ".hlp "
+  id: "165"
+mime_types_307: 
+  content_type: audio/mpeg
+  icon_id: "2"
+  ext: ".mpga "
+  id: "307"
+mime_types_117: 
+  content_type: application/x-envoy
+  icon_id: "0"
+  ext: ".env "
+  id: "117"
+mime_types_593: 
+  content_type: application/x-excel
+  icon_id: "39"
+  ext: ".xla "
+  id: "593"
+mime_types_545: 
+  content_type: application/x-vrml
+  icon_id: "0"
+  ext: ".vrml "
+  id: "545"
+mime_types_355: 
+  content_type: image/x-portable-greymap
+  icon_id: "0"
+  ext: ".pgm "
+  id: "355"
+mime_types_308: 
+  content_type: application/vnd.ms-project
+  icon_id: "0"
+  ext: ".mpp "
+  id: "308"
+mime_types_118: 
+  content_type: application/postscript
+  icon_id: "0"
+  ext: ".eps "
+  id: "118"
+mime_types_594: 
+  content_type: application/x-msexcel
+  icon_id: "39"
+  ext: ".xla "
+  id: "594"
+mime_types_546: 
+  content_type: model/vrml
+  icon_id: "0"
+  ext: ".vrml "
+  id: "546"
+mime_types_356: 
+  content_type: image/pict
+  icon_id: "18"
+  ext: ".pic "
+  id: "356"
+mime_types_166: 
+  content_type: application/x-helpfile
+  icon_id: "0"
+  ext: ".hlp "
+  id: "166"
+mime_types_309: 
+  content_type: application/x-project
+  icon_id: "0"
+  ext: ".mpt "
+  id: "309"
+mime_types_119: 
+  content_type: application/x-esrehber
+  icon_id: "0"
+  ext: ".es "
+  id: "119"
+mime_types_547: 
+  content_type: x-world/x-vrml
+  icon_id: "0"
+  ext: ".vrml "
+  id: "547"
+mime_types_357: 
+  content_type: image/pict
+  icon_id: "18"
+  ext: ".pict "
+  id: "357"
+mime_types_167: 
+  content_type: application/x-winhelp
+  icon_id: "0"
+  ext: ".hlp "
+  id: "167"
+mime_types_595: 
+  content_type: application/excel
+  icon_id: "39"
+  ext: ".xlb "
+  id: "595"
+mime_types_548: 
+  content_type: x-world/x-vrt
+  icon_id: "0"
+  ext: ".vrt "
+  id: "548"
+mime_types_358: 
+  content_type: application/x-newton-compatible-pkg
+  icon_id: "0"
+  ext: ".pkg "
+  id: "358"
+mime_types_168: 
+  content_type: application/vnd.hp-hpgl
+  icon_id: "0"
+  ext: ".hpg "
+  id: "168"
+mime_types_596: 
+  content_type: application/vnd.ms-excel
+  icon_id: "39"
+  ext: ".xlb "
+  id: "596"
+mime_types_549: 
+  content_type: application/x-visio
+  icon_id: "0"
+  ext: ".vsd "
+  id: "549"
+mime_types_359: 
+  content_type: application/vnd.ms-pki.pko
+  icon_id: "0"
+  ext: ".pko "
+  id: "359"
+mime_types_169: 
+  content_type: application/vnd.hp-hpgl
+  icon_id: "0"
+  ext: ".hpgl "
+  id: "169"
+mime_types_597: 
+  content_type: application/x-excel
+  icon_id: "39"
+  ext: ".xlb "
+  id: "597"
+mime_types_220: 
+  content_type: audio/midi
+  icon_id: "2"
+  ext: ".kar "
+  id: "220"
+mime_types_030: 
+  content_type: video/x-ms-asf
+  icon_id: "0"
+  ext: ".asx "
+  id: "30"
+mime_types_600: 
+  content_type: application/x-excel
+  icon_id: "39"
+  ext: ".xlc "
+  id: "600"
+mime_types_598: 
+  content_type: application/excel
+  icon_id: "39"
+  ext: ".xlc "
+  id: "598"
+mime_types_410: 
+  content_type: audio/x-pn-realaudio
+  icon_id: "2"
+  ext: ".rm "
+  id: "410"
+mime_types_031: 
+  content_type: video/x-ms-asf-plugin
+  icon_id: "0"
+  ext: ".asx "
+  id: "31"
+mime_types_601: 
+  content_type: application/excel
+  icon_id: "39"
+  ext: ".xld "
+  id: "601"
+mime_types_599: 
+  content_type: application/vnd.ms-excel
+  icon_id: "39"
+  ext: ".xlc "
+  id: "599"
+mime_types_411: 
+  content_type: audio/mid
+  icon_id: "2"
+  ext: ".rmi "
+  id: "411"
+mime_types_221: 
+  content_type: music/x-karaoke
+  icon_id: "0"
+  ext: ".kar "
+  id: "221"
+mime_types_032: 
+  content_type: audio/basic
+  icon_id: "2"
+  ext: ".au "
+  id: "32"
+mime_types_602: 
+  content_type: application/x-excel
+  icon_id: "39"
+  ext: ".xld "
+  id: "602"
+mime_types_460: 
+  content_type: application/x-koan
+  icon_id: "0"
+  ext: ".skm "
+  id: "460"
+mime_types_412: 
+  content_type: audio/x-pn-realaudio
+  icon_id: "2"
+  ext: ".rmm "
+  id: "412"
+mime_types_270: 
+  content_type: x-music/x-midi
+  icon_id: "0"
+  ext: ".mid "
+  id: "270"
+mime_types_080: 
+  content_type: application/pkcs-crl
+  icon_id: "0"
+  ext: ".crl "
+  id: "80"
+mime_types_222: 
+  content_type: application/x-ksh
+  icon_id: "0"
+  ext: ".ksh "
+  id: "222"
+mime_types_033: 
+  content_type: audio/x-au
+  icon_id: "2"
+  ext: ".au "
+  id: "33"
+mime_types_603: 
+  content_type: application/excel
+  icon_id: "39"
+  ext: ".xlk "
+  id: "603"
+mime_types_461: 
+  content_type: application/x-koan
+  icon_id: "0"
+  ext: ".skp "
+  id: "461"
+mime_types_413: 
+  content_type: audio/x-pn-realaudio
+  icon_id: "2"
+  ext: ".rmp "
+  id: "413"
+mime_types_271: 
+  content_type: application/x-midi
+  icon_id: "0"
+  ext: ".midi "
+  id: "271"
+mime_types_081: 
+  content_type: application/pkix-crl
+  icon_id: "0"
+  ext: ".crl "
+  id: "81"
+mime_types_223: 
+  content_type: text/x-script.ksh
+  icon_id: "0"
+  ext: ".ksh "
+  id: "223"
+mime_types_604: 
+  content_type: application/x-excel
+  icon_id: "39"
+  ext: ".xlk "
+  id: "604"
+mime_types_462: 
+  content_type: application/x-koan
+  icon_id: "0"
+  ext: ".skt "
+  id: "462"
+mime_types_414: 
+  content_type: audio/x-pn-realaudio-plugin
+  icon_id: "2"
+  ext: ".rmp "
+  id: "414"
+mime_types_272: 
+  content_type: audio/midi
+  icon_id: "2"
+  ext: ".midi "
+  id: "272"
+mime_types_082: 
+  content_type: application/pkix-cert
+  icon_id: "0"
+  ext: ".crt "
+  id: "82"
+mime_types_224: 
+  content_type: audio/nspaudio
+  icon_id: "2"
+  ext: ".la "
+  id: "224"
+mime_types_034: 
+  content_type: application/x-troff-msvideo
+  icon_id: "0"
+  ext: ".avi "
+  id: "34"
+mime_types_605: 
+  content_type: application/excel
+  icon_id: "39"
+  ext: ".xll "
+  id: "605"
+mime_types_415: 
+  content_type: application/ringing-tones
+  icon_id: "0"
+  ext: ".rng "
+  id: "415"
+mime_types_273: 
+  content_type: audio/x-mid
+  icon_id: "2"
+  ext: ".midi "
+  id: "273"
+mime_types_083: 
+  content_type: application/x-x509-ca-cert
+  icon_id: "0"
+  ext: ".crt "
+  id: "83"
+mime_types_225: 
+  content_type: audio/x-nspaudio
+  icon_id: "2"
+  ext: ".la "
+  id: "225"
+mime_types_035: 
+  content_type: video/avi
+  icon_id: "0"
+  ext: ".avi "
+  id: "35"
+mime_types_606: 
+  content_type: application/vnd.ms-excel
+  icon_id: "39"
+  ext: ".xll "
+  id: "606"
+mime_types_463: 
+  content_type: application/x-seelogo
+  icon_id: "0"
+  ext: ".sl "
+  id: "463"
+mime_types_416: 
+  content_type: application/vnd.nokia.ringing-tone
+  icon_id: "0"
+  ext: ".rng "
+  id: "416"
+mime_types_274: 
+  content_type: audio/x-midi
+  icon_id: "2"
+  ext: ".midi "
+  id: "274"
+mime_types_084: 
+  content_type: application/x-x509-user-cert
+  icon_id: "0"
+  ext: ".crt "
+  id: "84"
+mime_types_226: 
+  content_type: audio/x-liveaudio
+  icon_id: "2"
+  ext: ".lam "
+  id: "226"
+mime_types_036: 
+  content_type: video/msvideo
+  icon_id: "0"
+  ext: ".avi "
+  id: "36"
+mime_types_607: 
+  content_type: application/x-excel
+  icon_id: "39"
+  ext: ".xll "
+  id: "607"
+mime_types_464: 
+  content_type: application/smil
+  icon_id: "0"
+  ext: ".smi "
+  id: "464"
+mime_types_417: 
+  content_type: application/vnd.rn-realplayer
+  icon_id: "0"
+  ext: ".rnx "
+  id: "417"
+mime_types_275: 
+  content_type: music/crescendo
+  icon_id: "0"
+  ext: ".midi "
+  id: "275"
+mime_types_085: 
+  content_type: application/x-csh
+  icon_id: "0"
+  ext: ".csh "
+  id: "85"
+mime_types_227: 
+  content_type: application/x-latex
+  icon_id: "0"
+  ext: ".latex "
+  id: "227"
+mime_types_037: 
+  content_type: video/x-msvideo
+  icon_id: "0"
+  ext: ".avi "
+  id: "37"
+mime_types_608: 
+  content_type: application/excel
+  icon_id: "39"
+  ext: ".xlm "
+  id: "608"
+mime_types_465: 
+  content_type: application/smil
+  icon_id: "0"
+  ext: ".smil "
+  id: "465"
+mime_types_418: 
+  content_type: application/x-troff
+  icon_id: "0"
+  ext: ".roff "
+  id: "418"
+mime_types_086: 
+  content_type: text/x-script.csh
+  icon_id: "0"
+  ext: ".csh "
+  id: "86"
+mime_types_228: 
+  content_type: application/lha
+  icon_id: "0"
+  ext: ".lha "
+  id: "228"
+mime_types_038: 
+  content_type: video/avs-video
+  icon_id: "0"
+  ext: ".avs "
+  id: "38"
+mime_types_609: 
+  content_type: application/vnd.ms-excel
+  icon_id: "39"
+  ext: ".xlm "
+  id: "609"
+mime_types_466: 
+  content_type: audio/basic
+  icon_id: "2"
+  ext: ".snd "
+  id: "466"
+mime_types_419: 
+  content_type: image/vnd.rn-realpix
+  icon_id: "0"
+  ext: ".rp "
+  id: "419"
+mime_types_276: 
+  content_type: x-music/x-midi
+  icon_id: "0"
+  ext: ".midi "
+  id: "276"
+mime_types_087: 
+  content_type: application/x-pointplus
+  icon_id: "0"
+  ext: ".css "
+  id: "87"
+mime_types_229: 
+  content_type: application/octet-stream
+  icon_id: "0"
+  ext: ".lha "
+  id: "229"
+mime_types_039: 
+  content_type: application/x-bcpio
+  icon_id: "0"
+  ext: ".bcpio "
+  id: "39"
+mime_types_467: 
+  content_type: audio/x-adpcm
+  icon_id: "2"
+  ext: ".snd "
+  id: "467"
+mime_types_277: 
+  content_type: application/x-frame
+  icon_id: "0"
+  ext: ".mif "
+  id: "277"
+mime_types_088: 
+  content_type: text/css
+  icon_id: "0"
+  ext: ".css "
+  id: "88"
+mime_types_468: 
+  content_type: application/solids
+  icon_id: "0"
+  ext: ".sol "
+  id: "468"
+mime_types_278: 
+  content_type: application/x-mif
+  icon_id: "0"
+  ext: ".mif "
+  id: "278"
+mime_types_469: 
+  content_type: application/x-pkcs7-certificates
+  icon_id: "0"
+  ext: ".spc "
+  id: "469"
+mime_types_279: 
+  content_type: message/rfc822
+  icon_id: "0"
+  ext: ".mime "
+  id: "279"
+mime_types_089: 
+  content_type: text/plain
+  icon_id: "0"
+  ext: ".cxx "
+  id: "89"
+mime_types_330: 
+  content_type: application/x-omcregerator
+  icon_id: "0"
+  ext: ".omcr "
+  id: "330"
+mime_types_140: 
+  content_type: image/vnd.net-fpx
+  icon_id: "0"
+  ext: ".fpx "
+  id: "140"
+mime_types_520: 
+  content_type: text/uri-list
+  icon_id: "0"
+  ext: ".uri "
+  id: "520"
+mime_types_141: 
+  content_type: application/freeloader
+  icon_id: "0"
+  ext: ".frl "
+  id: "141"
+mime_types_521: 
+  content_type: text/uri-list
+  icon_id: "0"
+  ext: ".uris "
+  id: "521"
+mime_types_331: 
+  content_type: text/x-pascal
+  icon_id: "0"
+  ext: ".p "
+  id: "331"
+mime_types_142: 
+  content_type: audio/make
+  icon_id: "2"
+  ext: ".funk "
+  id: "142"
+mime_types_570: 
+  content_type: application/wordperfect6.0
+  icon_id: "0"
+  ext: ".wp5 "
+  id: "570"
+mime_types_522: 
+  content_type: application/x-ustar
+  icon_id: "0"
+  ext: ".ustar "
+  id: "522"
+mime_types_380: 
+  content_type: application/x-mspowerpoint
+  icon_id: "0"
+  ext: ".ppt "
+  id: "380"
+mime_types_190: 
+  content_type: application/iges
+  icon_id: "0"
+  ext: ".igs "
+  id: "190"
+mime_types_332: 
+  content_type: application/pkcs10
+  icon_id: "0"
+  ext: ".p10 "
+  id: "332"
+mime_types_143: 
+  content_type: text/plain
+  icon_id: "0"
+  ext: ".g "
+  id: "143"
+mime_types_571: 
+  content_type: application/wordperfect
+  icon_id: "0"
+  ext: ".wp6 "
+  id: "571"
+mime_types_523: 
+  content_type: multipart/x-ustar
+  icon_id: "0"
+  ext: ".ustar "
+  id: "523"
+mime_types_381: 
+  content_type: application/mspowerpoint
+  icon_id: "31"
+  ext: ".ppz "
+  id: "381"
+mime_types_191: 
+  content_type: model/iges
+  icon_id: "0"
+  ext: ".igs "
+  id: "191"
+mime_types_333: 
+  content_type: application/x-pkcs10
+  icon_id: "0"
+  ext: ".p10 "
+  id: "333"
+mime_types_572: 
+  content_type: application/wordperfect
+  icon_id: "0"
+  ext: ".wpd "
+  id: "572"
+mime_types_524: 
+  content_type: application/octet-stream
+  icon_id: "0"
+  ext: ".uu "
+  id: "524"
+mime_types_382: 
+  content_type: application/x-freelance
+  icon_id: "0"
+  ext: ".pre "
+  id: "382"
+mime_types_192: 
+  content_type: application/x-ima
+  icon_id: "0"
+  ext: ".ima "
+  id: "192"
+mime_types_334: 
+  content_type: application/pkcs-12
+  icon_id: "0"
+  ext: ".p12 "
+  id: "334"
+mime_types_144: 
+  content_type: image/g3fax
+  icon_id: "0"
+  ext: ".g3 "
+  id: "144"
+mime_types_525: 
+  content_type: text/x-uuencode
+  icon_id: "0"
+  ext: ".uu "
+  id: "525"
+mime_types_383: 
+  content_type: application/pro_eng
+  icon_id: "0"
+  ext: ".prt "
+  id: "383"
+mime_types_193: 
+  content_type: application/x-httpd-imap
+  icon_id: "0"
+  ext: ".imap "
+  id: "193"
+mime_types_335: 
+  content_type: application/x-pkcs12
+  icon_id: "0"
+  ext: ".p12 "
+  id: "335"
+mime_types_145: 
+  content_type: image/gif
+  icon_id: "18"
+  ext: ".gif "
+  id: "145"
+mime_types_573: 
+  content_type: application/x-wpwin
+  icon_id: "0"
+  ext: ".wpd "
+  id: "573"
+mime_types_526: 
+  content_type: text/x-uuencode
+  icon_id: "0"
+  ext: ".uue "
+  id: "526"
+mime_types_384: 
+  content_type: application/postscript
+  icon_id: "0"
+  ext: ".ps "
+  id: "384"
+mime_types_194: 
+  content_type: application/inf
+  icon_id: "0"
+  ext: ".inf "
+  id: "194"
+mime_types_336: 
+  content_type: application/x-pkcs7-signature
+  icon_id: "0"
+  ext: ".p7a "
+  id: "336"
+mime_types_146: 
+  content_type: video/gl
+  icon_id: "0"
+  ext: ".gl "
+  id: "146"
+mime_types_574: 
+  content_type: application/x-lotus
+  icon_id: "0"
+  ext: ".wq1 "
+  id: "574"
+mime_types_527: 
+  content_type: application/x-cdlink
+  icon_id: "0"
+  ext: ".vcd "
+  id: "527"
+mime_types_385: 
+  content_type: application/octet-stream
+  icon_id: "26"
+  ext: ".psd "
+  id: "385"
+mime_types_195: 
+  content_type: application/x-internett-signup
+  icon_id: "0"
+  ext: ".ins "
+  id: "195"
+mime_types_337: 
+  content_type: application/pkcs7-mime
+  icon_id: "0"
+  ext: ".p7c "
+  id: "337"
+mime_types_147: 
+  content_type: video/x-gl
+  icon_id: "0"
+  ext: ".gl "
+  id: "147"
+mime_types_575: 
+  content_type: application/mswrite
+  icon_id: "0"
+  ext: ".wri "
+  id: "575"
+mime_types_528: 
+  content_type: text/x-vcalendar
+  icon_id: "0"
+  ext: ".vcs "
+  id: "528"
+mime_types_196: 
+  content_type: application/x-ip2
+  icon_id: "0"
+  ext: ".ip "
+  id: "196"
+mime_types_338: 
+  content_type: application/x-pkcs7-mime
+  icon_id: "0"
+  ext: ".p7c "
+  id: "338"
+mime_types_148: 
+  content_type: audio/x-gsm
+  icon_id: "2"
+  ext: ".gsd "
+  id: "148"
+mime_types_576: 
+  content_type: application/x-wri
+  icon_id: "0"
+  ext: ".wri "
+  id: "576"
+mime_types_529: 
+  content_type: application/vda
+  icon_id: "0"
+  ext: ".vda "
+  id: "529"
+mime_types_386: 
+  content_type: paleovu/x-pv
+  icon_id: "0"
+  ext: ".pvu "
+  id: "386"
+mime_types_197: 
+  content_type: video/x-isvideo
+  icon_id: "0"
+  ext: ".isu "
+  id: "197"
+mime_types_339: 
+  content_type: application/pkcs7-mime
+  icon_id: "0"
+  ext: ".p7m "
+  id: "339"
+mime_types_149: 
+  content_type: audio/x-gsm
+  icon_id: "2"
+  ext: ".gsm "
+  id: "149"
+mime_types_577: 
+  content_type: application/x-world
+  icon_id: "0"
+  ext: ".wrl "
+  id: "577"
+mime_types_010: 
+  content_type: application/postscript
+  icon_id: "0"
+  ext: ".ai "
+  id: "10"
+mime_types_387: 
+  content_type: application/vnd.ms-powerpoint
+  icon_id: "31"
+  ext: ".pwz "
+  id: "387"
+mime_types_198: 
+  content_type: audio/it
+  icon_id: "2"
+  ext: ".it "
+  id: "198"
+mime_types_578: 
+  content_type: model/vrml
+  icon_id: "0"
+  ext: ".wrl "
+  id: "578"
+mime_types_200: 
+  content_type: i-world/i-vrml
+  icon_id: "0"
+  ext: ".ivr "
+  id: "200"
+mime_types_011: 
+  content_type: audio/aiff
+  icon_id: "2"
+  ext: ".aif "
+  id: "11"
+mime_types_388: 
+  content_type: text/x-script.phyton
+  icon_id: "0"
+  ext: ".py "
+  id: "388"
+mime_types_579: 
+  content_type: x-world/x-vrml
+  icon_id: "0"
+  ext: ".wrl "
+  id: "579"
+mime_types_201: 
+  content_type: application/x-livescreen
+  icon_id: "0"
+  ext: ".ivy "
+  id: "201"
+mime_types_389: 
+  content_type: applicaiton/x-bytecode.python
+  icon_id: "0"
+  ext: ".pyc "
+  id: "389"
+mime_types_199: 
+  content_type: application/x-inventor
+  icon_id: "0"
+  ext: ".iv "
+  id: "199"
+mime_types_440: 
+  content_type: application/sounder
+  icon_id: "0"
+  ext: ".sdr "
+  id: "440"
+mime_types_202: 
+  content_type: audio/x-jam
+  icon_id: "2"
+  ext: ".jam "
+  id: "202"
+mime_types_012: 
+  content_type: audio/x-aiff
+  icon_id: "2"
+  ext: ".aif "
+  id: "12"
+mime_types_250: 
+  content_type: video/mpeg
+  icon_id: "0"
+  ext: ".m2v "
+  id: "250"
+mime_types_060: 
+  content_type: application/clariscad
+  icon_id: "0"
+  ext: ".ccad "
+  id: "60"
+mime_types_630: 
+  content_type: image/png
+  icon_id: "18"
+  ext: ".x-png "
+  id: "630"
+mime_types_203: 
+  content_type: text/plain
+  icon_id: "0"
+  ext: ".jav "
+  id: "203"
+mime_types_013: 
+  content_type: audio/aiff
+  icon_id: "2"
+  ext: ".aifc "
+  id: "13"
+mime_types_251: 
+  content_type: audio/x-mpequrl
+  icon_id: "2"
+  ext: ".m3u "
+  id: "251"
+mime_types_061: 
+  content_type: application/x-cocoa
+  icon_id: "0"
+  ext: ".cco "
+  id: "61"
+mime_types_631: 
+  content_type: video/x-amt-showrun
+  icon_id: "0"
+  ext: ".xsr "
+  id: "631"
+mime_types_441: 
+  content_type: application/sea
+  icon_id: "0"
+  ext: ".sea "
+  id: "441"
+mime_types_204: 
+  content_type: text/x-java-source
+  icon_id: "0"
+  ext: ".jav "
+  id: "204"
+mime_types_014: 
+  content_type: audio/x-aiff
+  icon_id: "2"
+  ext: ".aifc "
+  id: "14"
+mime_types_252: 
+  content_type: application/x-troff-man
+  icon_id: "0"
+  ext: ".man "
+  id: "252"
+mime_types_062: 
+  content_type: application/cdf
+  icon_id: "0"
+  ext: ".cdf "
+  id: "62"
+mime_types_632: 
+  content_type: image/x-xwd
+  icon_id: "0"
+  ext: ".xwd "
+  id: "632"
+mime_types_490: 
+  content_type: application/x-troff
+  icon_id: "0"
+  ext: ".t "
+  id: "490"
+mime_types_442: 
+  content_type: application/x-sea
+  icon_id: "0"
+  ext: ".sea "
+  id: "442"
+mime_types_015: 
+  content_type: audio/aiff
+  icon_id: "2"
+  ext: ".aiff "
+  id: "15"
+mime_types_253: 
+  content_type: application/x-navimap
+  icon_id: "0"
+  ext: ".map "
+  id: "253"
+mime_types_063: 
+  content_type: application/x-cdf
+  icon_id: "0"
+  ext: ".cdf "
+  id: "63"
+mime_types_205: 
+  content_type: text/plain
+  icon_id: "0"
+  ext: ".java "
+  id: "205"
+mime_types_633: 
+  content_type: image/x-xwindowdump
+  icon_id: "0"
+  ext: ".xwd "
+  id: "633"
+mime_types_491: 
+  content_type: text/x-speech
+  icon_id: "0"
+  ext: ".talk "
+  id: "491"
+mime_types_443: 
+  content_type: application/set
+  icon_id: "0"
+  ext: ".set "
+  id: "443"
+mime_types_016: 
+  content_type: audio/x-aiff
+  icon_id: "2"
+  ext: ".aiff "
+  id: "16"
+mime_types_064: 
+  content_type: application/x-netcdf
+  icon_id: "0"
+  ext: ".cdf "
+  id: "64"
+mime_types_206: 
+  content_type: text/x-java-source
+  icon_id: "0"
+  ext: ".java "
+  id: "206"
+mime_types_634: 
+  content_type: chemical/x-pdb
+  icon_id: "0"
+  ext: ".xyz "
+  id: "634"
+mime_types_492: 
+  content_type: application/x-tar
+  icon_id: "0"
+  ext: ".tar "
+  id: "492"
+mime_types_444: 
+  content_type: text/sgml
+  icon_id: "0"
+  ext: ".sgm "
+  id: "444"
+mime_types_254: 
+  content_type: text/plain
+  icon_id: "0"
+  ext: ".mar "
+  id: "254"
+mime_types_065: 
+  content_type: application/pkix-cert
+  icon_id: "0"
+  ext: ".cer "
+  id: "65"
+mime_types_207: 
+  content_type: application/x-java-commerce
+  icon_id: "0"
+  ext: ".jcm "
+  id: "207"
+mime_types_017: 
+  content_type: application/x-aim
+  icon_id: "0"
+  ext: ".aim "
+  id: "17"
+mime_types_635: 
+  content_type: application/x-compress
+  icon_id: "0"
+  ext: ".z "
+  id: "635"
+mime_types_493: 
+  content_type: application/toolbook
+  icon_id: "0"
+  ext: ".tbk "
+  id: "493"
+mime_types_445: 
+  content_type: text/x-sgml
+  icon_id: "0"
+  ext: ".sgm "
+  id: "445"
+mime_types_255: 
+  content_type: application/mbedlet
+  icon_id: "0"
+  ext: ".mbd "
+  id: "255"
+mime_types_066: 
+  content_type: application/x-x509-ca-cert
+  icon_id: "0"
+  ext: ".cer "
+  id: "66"
+mime_types_208: 
+  content_type: image/jpeg
+  icon_id: "18"
+  ext: ".jfif "
+  id: "208"
+mime_types_018: 
+  content_type: text/x-audiosoft-intra
+  icon_id: "0"
+  ext: ".aip "
+  id: "18"
+mime_types_636: 
+  content_type: application/x-compressed
+  icon_id: "0"
+  ext: ".z "
+  id: "636"
+mime_types_494: 
+  content_type: application/x-tbook
+  icon_id: "0"
+  ext: ".tbk "
+  id: "494"
+mime_types_446: 
+  content_type: text/sgml
+  icon_id: "0"
+  ext: ".sgml "
+  id: "446"
+mime_types_256: 
+  content_type: application/x-magic-cap-package-1.0
+  icon_id: "0"
+  ext: ".mc$ "
+  id: "256"
+mime_types_209: 
+  content_type: image/pjpeg
+  icon_id: "18"
+  ext: ".jfif "
+  id: "209"
+mime_types_019: 
+  content_type: application/x-navi-animation
+  icon_id: "0"
+  ext: ".ani "
+  id: "19"
+mime_types_637: 
+  content_type: application/x-compressed
+  icon_id: "0"
+  ext: ".zip "
+  id: "637"
+mime_types_495: 
+  content_type: application/x-tcl
+  icon_id: "0"
+  ext: ".tcl "
+  id: "495"
+mime_types_447: 
+  content_type: text/x-sgml
+  icon_id: "0"
+  ext: ".sgml "
+  id: "447"
+mime_types_257: 
+  content_type: application/mcad
+  icon_id: "0"
+  ext: ".mcd "
+  id: "257"
+mime_types_067: 
+  content_type: application/x-chat
+  icon_id: "0"
+  ext: ".cha "
+  id: "67"
+mime_types_638: 
+  content_type: application/x-zip-compressed
+  icon_id: "41"
+  ext: ".zip "
+  id: "638"
+mime_types_448: 
+  content_type: application/x-bsh
+  icon_id: "0"
+  ext: ".sh "
+  id: "448"
+mime_types_258: 
+  content_type: application/x-mathcad
+  icon_id: "0"
+  ext: ".mcd "
+  id: "258"
+mime_types_068: 
+  content_type: application/x-chat
+  icon_id: "0"
+  ext: ".chat "
+  id: "68"
+mime_types_639: 
+  content_type: application/zip
+  icon_id: "41"
+  ext: ".zip "
+  id: "639"
+mime_types_496: 
+  content_type: text/x-script.tcl
+  icon_id: "0"
+  ext: ".tcl "
+  id: "496"
+mime_types_449: 
+  content_type: application/x-sh
+  icon_id: "0"
+  ext: ".sh "
+  id: "449"
+mime_types_259: 
+  content_type: image/vasa
+  icon_id: "0"
+  ext: ".mcf "
+  id: "259"
+mime_types_069: 
+  content_type: application/java
+  icon_id: "0"
+  ext: ".class "
+  id: "69"
+mime_types_497: 
+  content_type: text/x-script.tcsh
+  icon_id: "0"
+  ext: ".tcsh "
+  id: "497"
+mime_types_120: 
+  content_type: text/x-setext
+  icon_id: "0"
+  ext: ".etx "
+  id: "120"
+mime_types_500: 
+  content_type: application/x-texinfo
+  icon_id: "0"
+  ext: ".texinfo "
+  id: "500"
+mime_types_498: 
+  content_type: application/x-tex
+  icon_id: "0"
+  ext: ".tex "
+  id: "498"
+mime_types_310: 
+  content_type: application/x-project
+  icon_id: "0"
+  ext: ".mpv "
+  id: "310"
+mime_types_121: 
+  content_type: application/envoy
+  icon_id: "0"
+  ext: ".evy "
+  id: "121"
+mime_types_501: 
+  content_type: application/plain
+  icon_id: "0"
+  ext: ".text "
+  id: "501"
+mime_types_499: 
+  content_type: application/x-texinfo
+  icon_id: "0"
+  ext: ".texi "
+  id: "499"
+mime_types_311: 
+  content_type: application/x-project
+  icon_id: "0"
+  ext: ".mpx "
+  id: "311"
+mime_types_550: 
+  content_type: application/x-visio
+  icon_id: "0"
+  ext: ".vst "
+  id: "550"
+mime_types_502: 
+  content_type: text/plain
+  icon_id: "36"
+  ext: ".text "
+  id: "502"
+mime_types_122: 
+  content_type: application/x-envoy
+  icon_id: "0"
+  ext: ".evy "
+  id: "122"
+mime_types_360: 
+  content_type: text/plain
+  icon_id: "0"
+  ext: ".pl "
+  id: "360"
+mime_types_170: 
+  content_type: application/binhex
+  icon_id: "0"
+  ext: ".hqx "
+  id: "170"
+mime_types_312: 
+  content_type: application/marc
+  icon_id: "0"
+  ext: ".mrc "
+  id: "312"
+mime_types_503: 
+  content_type: application/gnutar
+  icon_id: "0"
+  ext: ".tgz "
+  id: "503"
+mime_types_123: 
+  content_type: application/octet-stream
+  icon_id: "0"
+  ext: ".exe "
+  id: "123"
+mime_types_361: 
+  content_type: text/x-script.perl
+  icon_id: "0"
+  ext: ".pl "
+  id: "361"
+mime_types_171: 
+  content_type: application/binhex4
+  icon_id: "0"
+  ext: ".hqx "
+  id: "171"
+mime_types_313: 
+  content_type: application/x-troff-ms
+  icon_id: "0"
+  ext: ".ms "
+  id: "313"
+mime_types_551: 
+  content_type: application/x-visio
+  icon_id: "0"
+  ext: ".vsw "
+  id: "551"
+mime_types_504: 
+  content_type: application/x-compressed
+  icon_id: "0"
+  ext: ".tgz "
+  id: "504"
+mime_types_362: 
+  content_type: application/x-pixclscript
+  icon_id: "0"
+  ext: ".plx "
+  id: "362"
+mime_types_172: 
+  content_type: application/mac-binhex
+  icon_id: "0"
+  ext: ".hqx "
+  id: "172"
+mime_types_314: 
+  content_type: video/x-sgi-movie
+  icon_id: "0"
+  ext: ".mv "
+  id: "314"
+mime_types_124: 
+  content_type: text/plain
+  icon_id: "0"
+  ext: ".f "
+  id: "124"
+mime_types_552: 
+  content_type: application/wordperfect6.0
+  icon_id: "0"
+  ext: ".w60 "
+  id: "552"
+mime_types_505: 
+  content_type: image/tiff
+  icon_id: "18"
+  ext: ".tif "
+  id: "505"
+mime_types_363: 
+  content_type: image/x-xpixmap
+  icon_id: "0"
+  ext: ".pm "
+  id: "363"
+mime_types_173: 
+  content_type: application/mac-binhex40
+  icon_id: "0"
+  ext: ".hqx "
+  id: "173"
+mime_types_315: 
+  content_type: audio/make
+  icon_id: "2"
+  ext: ".my "
+  id: "315"
+mime_types_125: 
+  content_type: text/x-fortran
+  icon_id: "0"
+  ext: ".f "
+  id: "125"
+mime_types_553: 
+  content_type: application/wordperfect6.1
+  icon_id: "0"
+  ext: ".w61 "
+  id: "553"
+mime_types_506: 
+  content_type: image/x-tiff
+  icon_id: "18"
+  ext: ".tif "
+  id: "506"
+mime_types_174: 
+  content_type: application/x-binhex40
+  icon_id: "0"
+  ext: ".hqx "
+  id: "174"
+mime_types_316: 
+  content_type: application/x-vnd.audioexplosion.mzz
+  icon_id: "0"
+  ext: ".mzz "
+  id: "316"
+mime_types_126: 
+  content_type: text/x-fortran
+  icon_id: "0"
+  ext: ".f77 "
+  id: "126"
+mime_types_554: 
+  content_type: application/msword
+  icon_id: "8"
+  ext: ".w6w "
+  id: "554"
+mime_types_507: 
+  content_type: image/tiff
+  icon_id: "18"
+  ext: ".tiff "
+  id: "507"
+mime_types_364: 
+  content_type: text/x-script.perl-module
+  icon_id: "0"
+  ext: ".pm "
+  id: "364"
+mime_types_175: 
+  content_type: application/x-mac-binhex40
+  icon_id: "0"
+  ext: ".hqx "
+  id: "175"
+mime_types_317: 
+  content_type: image/naplps
+  icon_id: "0"
+  ext: ".nap "
+  id: "317"
+mime_types_127: 
+  content_type: text/plain
+  icon_id: "0"
+  ext: ".f90 "
+  id: "127"
+mime_types_555: 
+  content_type: audio/wav
+  icon_id: "2"
+  ext: ".wav "
+  id: "555"
+mime_types_508: 
+  content_type: image/x-tiff
+  icon_id: "18"
+  ext: ".tiff "
+  id: "508"
+mime_types_365: 
+  content_type: application/x-pagemaker
+  icon_id: "0"
+  ext: ".pm4 "
+  id: "365"
+mime_types_176: 
+  content_type: application/hta
+  icon_id: "0"
+  ext: ".hta "
+  id: "176"
+mime_types_318: 
+  content_type: image/naplps
+  icon_id: "0"
+  ext: ".naplps "
+  id: "318"
+mime_types_128: 
+  content_type: text/x-fortran
+  icon_id: "0"
+  ext: ".f90 "
+  id: "128"
+mime_types_556: 
+  content_type: audio/x-wav
+  icon_id: "2"
+  ext: ".wav "
+  id: "556"
+mime_types_509: 
+  content_type: application/x-troff
+  icon_id: "0"
+  ext: ".tr "
+  id: "509"
+mime_types_366: 
+  content_type: application/x-pagemaker
+  icon_id: "0"
+  ext: ".pm5 "
+  id: "366"
+mime_types_319: 
+  content_type: application/x-netcdf
+  icon_id: "0"
+  ext: ".nc "
+  id: "319"
+mime_types_129: 
+  content_type: application/vnd.fdf
+  icon_id: "0"
+  ext: ".fdf "
+  id: "129"
+mime_types_557: 
+  content_type: application/x-qpro
+  icon_id: "0"
+  ext: ".wb1 "
+  id: "557"
+mime_types_367: 
+  content_type: image/png
+  icon_id: "18"
+  ext: ".png "
+  id: "367"
+mime_types_177: 
+  content_type: text/x-component
+  icon_id: "0"
+  ext: ".htc "
+  id: "177"
+mime_types_558: 
+  content_type: image/vnd.wap.wbmp
+  icon_id: "0"
+  ext: ".wbmp "
+  id: "558"
+mime_types_368: 
+  content_type: application/x-portable-anymap
+  icon_id: "0"
+  ext: ".pnm "
+  id: "368"
+mime_types_178: 
+  content_type: text/html
+  icon_id: "17"
+  ext: ".htm "
+  id: "178"
+mime_types_559: 
+  content_type: application/vnd.xara
+  icon_id: "0"
+  ext: ".web "
+  id: "559"
+mime_types_369: 
+  content_type: image/x-portable-anymap
+  icon_id: "0"
+  ext: ".pnm "
+  id: "369"
+mime_types_179: 
+  content_type: text/html
+  icon_id: "17"
+  ext: ".html "
+  id: "179"
+mime_types_230: 
+  content_type: application/x-lha
+  icon_id: "0"
+  ext: ".lha "
+  id: "230"
+mime_types_040: 
+  content_type: application/mac-binary
+  icon_id: "0"
+  ext: ".bin "
+  id: "40"
+mime_types_610: 
+  content_type: application/x-excel
+  icon_id: "39"
+  ext: ".xlm "
+  id: "610"
+mime_types_420: 
+  content_type: audio/x-pn-realaudio-plugin
+  icon_id: "2"
+  ext: ".rpm "
+  id: "420"
+mime_types_231: 
+  content_type: application/octet-stream
+  icon_id: "0"
+  ext: ".lhx "
+  id: "231"
+mime_types_041: 
+  content_type: application/macbinary
+  icon_id: "0"
+  ext: ".bin "
+  id: "41"
+mime_types_611: 
+  content_type: application/excel
+  icon_id: "39"
+  ext: ".xls "
+  id: "611"
+mime_types_421: 
+  content_type: text/richtext
+  icon_id: "0"
+  ext: ".rt "
+  id: "421"
+mime_types_042: 
+  content_type: application/octet-stream
+  icon_id: "0"
+  ext: ".bin "
+  id: "42"
+mime_types_612: 
+  content_type: application/vnd.ms-excel
+  icon_id: "39"
+  ext: ".xls "
+  id: "612"
+mime_types_470: 
+  content_type: text/x-speech
+  icon_id: "0"
+  ext: ".spc "
+  id: "470"
+mime_types_422: 
+  content_type: text/vnd.rn-realtext
+  icon_id: "0"
+  ext: ".rt "
+  id: "422"
+mime_types_043: 
+  content_type: application/x-binary
+  icon_id: "0"
+  ext: ".bin "
+  id: "43"
+mime_types_280: 
+  content_type: www/mime
+  icon_id: "0"
+  ext: ".mime "
+  id: "280"
+mime_types_090: 
+  content_type: application/x-director
+  icon_id: "0"
+  ext: ".dcr "
+  id: "90"
+mime_types_232: 
+  content_type: text/plain
+  icon_id: "0"
+  ext: ".list "
+  id: "232"
+mime_types_613: 
+  content_type: application/x-excel
+  icon_id: "39"
+  ext: ".xls "
+  id: "613"
+mime_types_471: 
+  content_type: application/futuresplash
+  icon_id: "0"
+  ext: ".spl "
+  id: "471"
+mime_types_423: 
+  content_type: application/rtf
+  icon_id: "0"
+  ext: ".rtf "
+  id: "423"
+mime_types_281: 
+  content_type: audio/x-vnd.audioexplosion.mjuicemediafile
+  icon_id: "2"
+  ext: ".mjf "
+  id: "281"
+mime_types_091: 
+  content_type: application/x-deepv
+  icon_id: "0"
+  ext: ".deepv "
+  id: "91"
+mime_types_233: 
+  content_type: audio/nspaudio
+  icon_id: "2"
+  ext: ".lma "
+  id: "233"
+mime_types_044: 
+  content_type: application/x-macbinary
+  icon_id: "0"
+  ext: ".bin "
+  id: "44"
+mime_types_614: 
+  content_type: application/x-msexcel
+  icon_id: "39"
+  ext: ".xls "
+  id: "614"
+mime_types_472: 
+  content_type: application/x-sprite
+  icon_id: "0"
+  ext: ".spr "
+  id: "472"
+mime_types_424: 
+  content_type: application/x-rtf
+  icon_id: "0"
+  ext: ".rtf "
+  id: "424"
+mime_types_282: 
+  content_type: video/x-motion-jpeg
+  icon_id: "0"
+  ext: ".mjpg "
+  id: "282"
+mime_types_092: 
+  content_type: text/plain
+  icon_id: "0"
+  ext: ".def "
+  id: "92"
+mime_types_234: 
+  content_type: audio/x-nspaudio
+  icon_id: "2"
+  ext: ".lma "
+  id: "234"
+mime_types_615: 
+  content_type: application/excel
+  icon_id: "39"
+  ext: ".xlt "
+  id: "615"
+mime_types_473: 
+  content_type: application/x-sprite
+  icon_id: "0"
+  ext: ".sprite "
+  id: "473"
+mime_types_425: 
+  content_type: text/richtext
+  icon_id: "0"
+  ext: ".rtf "
+  id: "425"
+mime_types_283: 
+  content_type: application/base64
+  icon_id: "0"
+  ext: ".mm "
+  id: "283"
+mime_types_093: 
+  content_type: application/x-x509-ca-cert
+  icon_id: "0"
+  ext: ".der "
+  id: "93"
+mime_types_235: 
+  content_type: text/plain
+  icon_id: "0"
+  ext: ".log "
+  id: "235"
+mime_types_045: 
+  content_type: image/bmp
+  icon_id: "0"
+  ext: ".bm "
+  id: "45"
+mime_types_616: 
+  content_type: application/x-excel
+  icon_id: "39"
+  ext: ".xlt "
+  id: "616"
+mime_types_426: 
+  content_type: application/rtf
+  icon_id: "0"
+  ext: ".rtx "
+  id: "426"
+mime_types_284: 
+  content_type: application/x-meme
+  icon_id: "0"
+  ext: ".mm "
+  id: "284"
+mime_types_094: 
+  content_type: video/x-dv
+  icon_id: "0"
+  ext: ".dif "
+  id: "94"
+mime_types_236: 
+  content_type: application/x-lisp
+  icon_id: "0"
+  ext: ".lsp "
+  id: "236"
+mime_types_046: 
+  content_type: image/bmp
+  icon_id: "0"
+  ext: ".bmp "
+  id: "46"
+mime_types_617: 
+  content_type: application/excel
+  icon_id: "39"
+  ext: ".xlv "
+  id: "617"
+mime_types_474: 
+  content_type: application/x-wais-source
+  icon_id: "0"
+  ext: ".src "
+  id: "474"
+mime_types_427: 
+  content_type: text/richtext
+  icon_id: "0"
+  ext: ".rtx "
+  id: "427"
+mime_types_285: 
+  content_type: application/base64
+  icon_id: "0"
+  ext: ".mme "
+  id: "285"
+mime_types_095: 
+  content_type: application/x-director
+  icon_id: "0"
+  ext: ".dir "
+  id: "95"
+mime_types_237: 
+  content_type: text/x-script.lisp
+  icon_id: "0"
+  ext: ".lsp "
+  id: "237"
+mime_types_047: 
+  content_type: image/x-windows-bmp
+  icon_id: "18"
+  ext: ".bmp "
+  id: "47"
+mime_types_618: 
+  content_type: application/x-excel
+  icon_id: "39"
+  ext: ".xlv "
+  id: "618"
+mime_types_475: 
+  content_type: text/x-server-parsed-html
+  icon_id: "0"
+  ext: ".ssi "
+  id: "475"
+mime_types_428: 
+  content_type: video/vnd.rn-realvideo
+  icon_id: "0"
+  ext: ".rv "
+  id: "428"
+mime_types_286: 
+  content_type: audio/mod
+  icon_id: "2"
+  ext: ".mod "
+  id: "286"
+mime_types_096: 
+  content_type: video/dl
+  icon_id: "0"
+  ext: ".dl "
+  id: "96"
+mime_types_238: 
+  content_type: text/plain
+  icon_id: "0"
+  ext: ".lst "
+  id: "238"
+mime_types_048: 
+  content_type: application/book
+  icon_id: "0"
+  ext: ".boo "
+  id: "48"
+mime_types_619: 
+  content_type: application/excel
+  icon_id: "39"
+  ext: ".xlw "
+  id: "619"
+mime_types_476: 
+  content_type: application/streamingmedia
+  icon_id: "0"
+  ext: ".ssm "
+  id: "476"
+mime_types_429: 
+  content_type: text/x-asm
+  icon_id: "0"
+  ext: ".s "
+  id: "429"
+mime_types_097: 
+  content_type: video/x-dl
+  icon_id: "0"
+  ext: ".dl "
+  id: "97"
+mime_types_239: 
+  content_type: text/x-la-asf
+  icon_id: "0"
+  ext: ".lsx "
+  id: "239"
+mime_types_049: 
+  content_type: application/book
+  icon_id: "0"
+  ext: ".book "
+  id: "49"
+mime_types_477: 
+  content_type: application/vnd.ms-pki.certstore
+  icon_id: "0"
+  ext: ".sst "
+  id: "477"
+mime_types_287: 
+  content_type: audio/x-mod
+  icon_id: "2"
+  ext: ".mod "
+  id: "287"
+mime_types_098: 
+  content_type: application/msword
+  icon_id: "8"
+  ext: ".doc "
+  id: "98"
+mime_types_478: 
+  content_type: application/step
+  icon_id: "0"
+  ext: ".step "
+  id: "478"
+mime_types_100: 
+  content_type: application/commonground
+  icon_id: "0"
+  ext: ".dp "
+  id: "100"
+mime_types_288: 
+  content_type: video/quicktime
+  icon_id: "0"
+  ext: ".moov "
+  id: "288"
+mime_types_099: 
+  content_type: application/msword
+  icon_id: "8"
+  ext: ".dot "
+  id: "99"
+mime_types_479: 
+  content_type: application/sla
+  icon_id: "0"
+  ext: ".stl "
+  id: "479"
+mime_types_101: 
+  content_type: application/drafting
+  icon_id: "0"
+  ext: ".drw "
+  id: "101"
+mime_types_289: 
+  content_type: video/quicktime
+  icon_id: "0"
+  ext: ".mov "
+  id: "289"
+mime_types_150: 
+  content_type: application/x-gsp
+  icon_id: "0"
+  ext: ".gsp "
+  id: "150"
+mime_types_102: 
+  content_type: application/octet-stream
+  icon_id: "0"
+  ext: ".dump "
+  id: "102"
+mime_types_340: 
+  content_type: application/x-pkcs7-mime
+  icon_id: "0"
+  ext: ".p7m "
+  id: "340"
+mime_types_530: 
+  content_type: video/vdo
+  icon_id: "0"
+  ext: ".vdo "
+  id: "530"
+mime_types_103: 
+  content_type: video/x-dv
+  icon_id: "0"
+  ext: ".dv "
+  id: "103"
+mime_types_341: 
+  content_type: application/x-pkcs7-certreqresp
+  icon_id: "0"
+  ext: ".p7r "
+  id: "341"
+mime_types_151: 
+  content_type: application/x-gss
+  icon_id: "0"
+  ext: ".gss "
+  id: "151"
+mime_types_531: 
+  content_type: application/groupwise
+  icon_id: "0"
+  ext: ".vew "
+  id: "531"
+mime_types_104: 
+  content_type: application/x-dvi
+  icon_id: "0"
+  ext: ".dvi "
+  id: "104"
+mime_types_152: 
+  content_type: application/x-gtar
+  icon_id: "0"
+  ext: ".gtar "
+  id: "152"
+mime_types_580: 
+  content_type: model/vrml
+  icon_id: "0"
+  ext: ".wrz "
+  id: "580"
+mime_types_532: 
+  content_type: video/vivo
+  icon_id: "0"
+  ext: ".viv "
+  id: "532"
+mime_types_105: 
+  content_type: drawing/x-dwf (old)
+  icon_id: "0"
+  ext: ".dwf "
+  id: "105"
+mime_types_390: 
+  content_type: audio/vnd.qcelp
+  icon_id: "2"
+  ext: ".qcp "
+  id: "390"
+mime_types_342: 
+  content_type: application/pkcs7-signature
+  icon_id: "0"
+  ext: ".p7s "
+  id: "342"
+mime_types_153: 
+  content_type: application/x-compressed
+  icon_id: "0"
+  ext: ".gz "
+  id: "153"

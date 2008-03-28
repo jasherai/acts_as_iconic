@@ -1,4 +1,4 @@
-create_table "icons2", :force => true do |t|
+create_table "icons", :force => true do |t|
   t.string  "name",         :null => false
   t.integer "parent_id"
   t.string  "content_type"
@@ -9,7 +9,7 @@ create_table "icons2", :force => true do |t|
   t.integer "height"
 end
 
-create_table "mime_types2", :force => true do |t|
+create_table "mime_types", :force => true do |t|
   t.string  "ext"
   t.string  "content_type"
   t.integer "icon_id",      :null => false

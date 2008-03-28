@@ -18,6 +18,8 @@ class ActsAsIconicGenerator < Rails::Generator::Base
       m.migration_template 'db/migrate/create_icons_and_mime_types.rb', 'db/migrate/create_icons_and_mime_types'
       m.directory 'public/images/icons'
       m.directory 'public/images/icons/acts_as_iconic'
+      m.file 'db/icons.yml', 'test/fixtures/icons.yml'
+      m.file 'db/mime_types.yml', 'test/fixtures/mime_types.yml'
     end
   end
 end
