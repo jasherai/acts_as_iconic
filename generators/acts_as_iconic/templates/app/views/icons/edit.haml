@@ -1,0 +1,85 @@
+.column.span-8
+  .box
+    = error_messages_for :icon
+    %table
+      %tr
+        %th
+        %th
+          Name
+        %th
+          Content type
+        %th
+          Filename
+      %tr
+        %td
+          = image_tag @icon.public_filename
+        %td
+          = h @icon.name
+        %td
+          = h @icon.content_type
+        %td
+          = h @icon.filename
+    %hr
+    %h2
+      Upload Alternate Icon
+    - form_for(:icon, :url => icon_path(@icon), :html => { :multipart => true, :method => :put }) do |f|
+      %p
+        %strong
+          Name
+        %br
+        = f.text_field :name
+      %p
+        %strong
+          Upload Icon
+        %br
+        = f.file_field :uploaded_data
+      %p
+        = submit_tag "Update"
+    = link_to 'Show', icon_path(@icon)
+    |
+    = link_to 'Back', icons_path
+.column.span-8
+  .box
+    %h2
+      Current Mime Types
+    - for m in @current_mt
+      %span.small
+        = m.content_type
+        \--
+        = m.ext
+        = link_to 'remove', icon_disassoc_mime_type_path(m.id), :method => :put
+      %br/
+.column.span-8.last
+  .box
+    %h2.bottom
+      Unassociated Types
+    %p
+      Mime types not associated with any icon.
+    - form_for(:mime_type, :url => icon_assoc_mime_types_path, :html => { :method => :put }) do |f|
+      %p
+        = select_tag "mime_types[]", options_for_select(@unassoc_mt), :multiple => true, :size => 20, :class=>'small', :style=>'width:250px;'
+      = hidden_field_tag :icon_id, @icon.id
+      %p
+        = submit_tag "Associate"
+  .box
+    %h2.bottom
+      Unassociated Types (Ext)
+    %p
+      Mime types not associated with any icon.
+    - form_for(:mime_type, :url => icon_assoc_mime_types_path, :html => { :method => :put }) do |f|
+      %p
+        = select_tag "mime_types[]", options_for_select(@unassoc_mt_ext), :multiple => true, :size => 20, :class=>'small', :style=>'width:250px;'
+      = hidden_field_tag :icon_id, @icon.id
+      %p
+        = submit_tag "Associate"
+  .box
+    %h2.bottom
+      All Types
+    %p
+      Mime types not associated with this icon.
+    - form_for(:mime_type, :url => icon_assoc_mime_types_path, :html => { :method => :put }) do |f|
+      %p
+        = select_tag "mime_types[]", options_for_select(@available_mt), :multiple => true, :size => 20, :class=>'small', :style=>'width:250px;'
+      = hidden_field_tag :icon_id, @icon.id
+      %p
+        = submit_tag "Associate"

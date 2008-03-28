@@ -1,0 +1,15 @@
+%p
+  %b
+    Content Type:
+  = h @mime_type.content_type
+%p
+  %b
+    Ext:
+  = h @mime_type.ext
+%p
+  %b
+    Icon:
+  = h @mime_type.icon_id
+= link_to 'Edit', edit_mime_type_path(@mime_type)
+|
+= link_to 'Back', mime_types_path
