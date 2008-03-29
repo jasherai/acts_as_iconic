@@ -1,10 +1,11 @@
-%h1
-  Editing mime_type
-= error_messages_for :mime_type
-- form_for(:mime_type, :url => mime_type_path(@mime_type), :html => { :method => :put }) do |f|
-  = render :partial => "form", :locals => { :f => f }
-  %p
-    = submit_tag 'Update'
-= link_to 'Show', mime_type_path(@mime_type)
-|
-= link_to 'Back', mime_types_path
+.span-24
+  %h1
+    Editing mime_type
+  = error_messages_for :mime_type
+  - form_for(:mime_type, :url => mime_type_path(@mime_type), :html => { :method => :put }) do |f|
+    = render :partial => "form", :locals => { :f => f }
+    %p
+      = submit_tag 'Update'
+  = link_to 'Show', mime_type_path(@mime_type)
+  |
+  = link_to 'Back', mime_types_path

@@ -1,33 +1,34 @@
-%h1
-  Listing icons
-%table.separators
-  %tr
-    %th
-    %th
-      Name
-    %th
-      Content type
-    %th
-      Filename
-    %th
-      \# Associations
-  - for icon in @icons
+.span-24
+  %h1
+    Listing icons
+  %table.separators
     %tr
-      %td
-        = image_tag icon.public_filename
-      %td
-        = h icon.name
-      %td
-        = h icon.content_type
-      %td
-        = h icon.filename
-      %td
-        = MimeType.count(:conditions => "icon_id=" + icon.id.to_s)
-      %td
-        = link_to 'Show', icon_path(icon)
-      %td
-        = link_to 'Edit', edit_icon_path(icon)
-      %td
-        = link_to 'Destroy', icon_path(icon), :confirm => 'Are you sure?', :method => :delete
-%br
-= link_to 'New icon', new_icon_path
+      %th
+      %th
+        Name
+      %th
+        Content type
+      %th
+        Filename
+      %th
+        \# Associations
+    - for icon in @icons
+      %tr
+        %td
+          = image_tag icon.public_filename
+        %td
+          = h icon.name
+        %td
+          = h icon.content_type
+        %td
+          = h icon.filename
+        %td
+          = MimeType.count(:conditions => "icon_id=" + icon.id.to_s)
+        %td
+          = link_to 'Show', icon_path(icon)
+        %td
+          = link_to 'Edit', edit_icon_path(icon)
+        %td
+          = link_to 'Destroy', icon_path(icon), :confirm => 'Are you sure?', :method => :delete
+  %br
+  = link_to 'New icon', new_icon_path

@@ -1,28 +1,29 @@
-%h1
-  Listing mime_types
-%p
-  = link_to 'New mime_type', new_mime_type_path
-%table
-  %tr
-    %th
-      Content Type
-    %th
-      Ext
-    %th
-      Icon
-  - for mime_type in @mime_types
+.span-24
+  %h1
+    Listing mime_types
+  %p
+    = link_to 'New mime_type', new_mime_type_path
+  %table
     %tr
-      %td
-        = h mime_type.content_type
-      %td
-        = h mime_type.ext
-      %td
-        = h mime_type.icon_id
-      %td
-        = link_to 'Show', mime_type_path(mime_type)
-      %td
-        = link_to 'Edit', edit_mime_type_path(mime_type)
-      %td
-        = link_to 'Destroy', mime_type_path(mime_type), :confirm => 'Are you sure?', :method => :delete
-%br
-= link_to 'New mime_type', new_mime_type_path
+      %th
+        Content Type
+      %th
+        Ext
+      %th
+        Icon
+    - for mime_type in @mime_types
+      %tr
+        %td
+          = h mime_type.content_type
+        %td
+          = h mime_type.ext
+        %td
+          = h mime_type.icon_id
+        %td
+          = link_to 'Show', mime_type_path(mime_type)
+        %td
+          = link_to 'Edit', edit_mime_type_path(mime_type)
+        %td
+          = link_to 'Destroy', mime_type_path(mime_type), :confirm => 'Are you sure?', :method => :delete
+  %br
+  = link_to 'New mime_type', new_mime_type_path

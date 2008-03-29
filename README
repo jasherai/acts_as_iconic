@@ -7,7 +7,10 @@ Introduction goes here.
 Example
 =======
 
-Example goes here.
+You need these routes!
+
+map.resources :icons
+map.resources :mime_types, :collection => { :icon_assoc => :put }, :member => { :icon_disassoc => :put }
 
 
-Copyright (c) 2008 [name of plugin creator], released under the MIT license
+Copyright (c) 2008 David Baldwin, released under the MIT license

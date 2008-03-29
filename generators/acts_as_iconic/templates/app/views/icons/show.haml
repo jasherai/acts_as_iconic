@@ -1,35 +1,36 @@
-%p
-  %b
-    Name:
-  = h @icon.name
-%p
-  %b
-    Parent:
-  = h @icon.parent_id
-%p
-  %b
-    Content type:
-  = h @icon.content_type
-%p
-  %b
-    Filename:
-  = h @icon.filename
-%p
-  %b
-    Thumbnail:
-  = h @icon.thumbnail
-%p
-  %b
-    Size:
-  = h @icon.size
-%p
-  %b
-    Width:
-  = h @icon.width
-%p
-  %b
-    Height:
-  = h @icon.height
-= link_to 'Edit', edit_icon_path(@icon)
-|
-= link_to 'Back', icons_path
+.span-24
+  %p
+    %b
+      Name:
+    = h @icon.name
+  %p
+    %b
+      Parent:
+    = h @icon.parent_id
+  %p
+    %b
+      Content type:
+    = h @icon.content_type
+  %p
+    %b
+      Filename:
+    = h @icon.filename
+  %p
+    %b
+      Thumbnail:
+    = h @icon.thumbnail
+  %p
+    %b
+      Size:
+    = h @icon.size
+  %p
+    %b
+      Width:
+    = h @icon.width
+  %p
+    %b
+      Height:
+    = h @icon.height
+  = link_to 'Edit', edit_icon_path(@icon)
+  |
+  = link_to 'Back', icons_path
