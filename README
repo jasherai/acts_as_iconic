@@ -1,14 +1,37 @@
 ActsAsIconic
 ============
 
-Introduction goes here.
-
+This plugin will add an icon to files uploaded via attachment_fu.  This checks the mime_type of the file and add the appropriate icon.  If no icon is discovered, the "unknown icon" image is returned.
 
 Example
 =======
 
-You need these routes!
+Attachment < ActiveRecord::Base
+  acts_as_iconic
+end
 
+Now you have the "icon_path" method for any Attachment object.  Based on the mime_type listed in the database a path to the icon image will be added.
+
+<%= image_tag @this_attachment.icon_path %>
+
+
+Installation
+============
+
+1. Run Generator...
+script/generate acts_as_iconic
+
+2. Run migration to create icon and mime_type tables
+rake db:migrate
+
+3. Copy icon images from acts_as_iconic generator folder to to public folder
+public/images/acts_as_iconic
+
+4. Run manage_fixtures (plugin) rake task on mime_types and icons fixtures
+rake db:fixtures:import_for_tables mime_types
+rake db:fixtures:import_for_tables icons
+
+5. Add routes to config/routes.rb
 map.resources :icons
 map.resources :mime_types, :collection => { :icon_assoc => :put }, :member => { :icon_disassoc => :put }
 
