@@ -28,8 +28,8 @@ rake db:migrate
 public/images/acts_as_iconic
 
 4. Run manage_fixtures (plugin) rake task on mime_types and icons fixtures
-rake db:fixtures:import_for_tables mime_types
-rake db:fixtures:import_for_tables icons
+rake db:fixtures:import_for_tables TABLES=mime_types
+rake db:fixtures:import_for_tables TABLES=icons
 
 5. Add routes to config/routes.rb
 map.resources :icons
