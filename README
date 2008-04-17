@@ -1,7 +1,7 @@
 ActsAsIconic
 ============
 
-This plugin will add an icon to files uploaded via attachment_fu.  This checks the mime_type of the file and add the appropriate icon.  If no icon is discovered, the "unknown icon" image is returned.
+This plugin will add an icon to files uploaded via attachment_fu.  This checks the mime_type of the file and adds the appropriate icon.  If no icon is discovered, the "unknown icon" image is returned.  You can also manage the mime_types and icons for your application.
 
 Example
 =======
@@ -17,6 +17,11 @@ Now you have the "icon_path" method for any Attachment object.  Based on the mim
 
 Installation
 ============
+
+IMPORTANT: You will need the following plugins...
+  - haml - http://haml.hamptoncatlin.com/download/
+  - manage_fixtures - http://svn.toolbocks.com/plugins/manage_fixtures/
+  - attachment_fu - http://svn.techno-weenie.net/projects/plugins/attachment_fu/
 
 1. Run Generator...
 script/generate acts_as_iconic
